@@ -1,0 +1,15 @@
+﻿using AccessHomes.Domain.Enum;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace AccessHomes.Domain.QueryParameters
+{
+    public class AmenityQueryParameters
+    {
+        public Amenity Amenity { get; set; } 
+        public int Number { get; set; }
+    }
+}

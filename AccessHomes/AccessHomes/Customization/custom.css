@@ -1,0 +1,8 @@
+﻿:root {
+    --primaryColor: #262f3d;
+    --secondaryColor: #c40606;
+    --bgMenuActive: #262f3d;
+    --bgButton: #c40606;
+    --logoImageUrl: url('https://africafintechfoundry.com/assets/img/aff-black-logo.svg');
+    --bgAside: var(--primaryColor);
+}
